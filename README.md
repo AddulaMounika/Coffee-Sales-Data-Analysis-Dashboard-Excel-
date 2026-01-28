@@ -40,3 +40,10 @@ Analyzed coffee sales data to understand customer behavior, product performance,
 ## 🎯 Key Outcome
 Delivered a clear, visual dashboard that helps stakeholders quickly identify revenue drivers, high-value customers, and product trends.
 
+## 📈 Dashboard Preview
+![Coffee Sales Dashboard](https://github.com/AddulaMounika/Coffee-Sales-Data-Analysis-Dashboard-Excel-/raw/main/Screenshot%202026-01-28%20105004.png)
+
+## 📂 Project Files
+- 📊 [Coffee Sales Dataset & Dashboard (Excel)](coffeeOrdersData.xlsx)
+
+
